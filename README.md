@@ -31,4 +31,4 @@ Install the required Python packages using:
 pip install -r requirements.txt
 
 
-Note: This is the Beta version of my personal project. Looking forward for further improvizations. 
+Note: This is the Beta version of my personal project. Looking forward for further improvizations. Those who wish to contribute can fork repository and make a pull request. 

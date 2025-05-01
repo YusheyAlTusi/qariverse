@@ -1,0 +1,15 @@
+arabic-reshaper==3.0.0
+audioread==3.0.1
+fastapi_mail
+ffmpeg==1.4
+Flask==3.0.3
+Flask-Session==0.8.0
+fuzzywuzzy==0.18.0
+moviepy==1.0.3
+openai-whisper @ git+https://github.com/openai/whisper.git@517a43ecd132a2089d85f4ebc044728a71d49f6e
+pydub==0.25.1
+python-bidi==0.6.6
+requests==2.31.0
+torch==2.5.1
+torchaudio==2.5.1
+transformers==4.46.1
